@@ -18,7 +18,7 @@ public class GeminiAPI : MonoBehaviour
         if (_instance == null)
         {
             _instance = this;
-            DontDestroyOnLoad(gameObject); // Optional
+            // DontDestroyOnLoad(gameObject); // Optional
         }
         else
         {

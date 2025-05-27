@@ -14,7 +14,12 @@
 
 /[Uu]ser[Ss]ettings/
 
-/Assets/Resources/service-account.json
+
+Assets/Resources
+
+Assets/Oculus
+
+/[As]
 
 # MemoryCaptures can get excessive in size.
 
