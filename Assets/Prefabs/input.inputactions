@@ -1,0 +1,34 @@
+{
+    "name": "input",
+    "maps": [
+        {
+            "name": "XRControls",
+            "id": "7f96cb06-614f-44e3-a56e-b80fc2187999",
+            "actions": [
+                {
+                    "name": "DictationToggle",
+                    "type": "Button",
+                    "id": "0808fb57-eb00-4ab2-b404-3286dc9c2749",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0e6a5ebe-27d1-44a4-b038-ee7788f5586c",
+                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DictationToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
