@@ -20,7 +20,7 @@
                     "name": "",
                     "id": "0e6a5ebe-27d1-44a4-b038-ee7788f5586c",
                     "path": "<XRController>{RightHand}/{PrimaryButton}",
-                    "interactions": "",
+                    "interactions": "Hold",
                     "processors": "",
                     "groups": "",
                     "action": "DictationToggle",
